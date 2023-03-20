@@ -20,6 +20,7 @@ var quote = [
     "Để có thể thành công, bạn cần phải tin rằng mình có thể.",
     "Cách tốt nhất để làm mọi thứ là ngừng nói và làm ngay bây giờ.",
     "Bạn chỉ thất bại khi bạn ngừng cố gắng."
+    "Learning never exhausts the mind"
 ]
 
 function newQuote() {
